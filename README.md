@@ -13,12 +13,6 @@ This is where I share all the code I’m learning and practicing as part of my c
 ## 🙏 Why I started this
 I believe small steps lead to big changes. Coding helps train my mind.
 
-## 📂 Files
-- firstclass.java – My first Java program
-- loop1.java, loop2.java – Practice problems
-- calc.java – Simple calculator program
-- firstclass.java – Notes and examples
-
 ## 🤝 Let’s connect!
 Feel free to explore, comment, or share your learning experiences. Let’s support each other in this journey of growth!
 
